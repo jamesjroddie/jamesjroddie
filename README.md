@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jjrdevelopment
+- 👋 Hi, I’m @jamesjroddie
 - 👀 I’m interested in UI/UX Design, Cybersecurity, and building functional apps with great form! 
 - 🌱 I’m currently learning web development and pentesting.
 - 📫 How to reach me ...tbd
